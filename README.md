@@ -7,18 +7,10 @@ Este proyecto consiste en el desarrollo de una plataforma web para la gestión d
 Está diseñado para mejorar la eficiencia en la atención de emergencias, optimizando la asignación de recursos y facilitando la toma de decisiones.
 
 ## tecnologias usadas
-* Backend
-Node.js
-Express.js
+* Backend: Node.js, Express.js
 
-* Frontend
-HTML5
-CSS3
-JavaScript (vanilla)
+* Frontend: HTML5, CSS3 y JavaScript
 
-* Base de Datos
-PostgreSQL
+* Base de Datos: PostgreSQL
 
-* DevOps
-Docker
-Docker Compose
+* DevOps: Docker y Docker Compose
