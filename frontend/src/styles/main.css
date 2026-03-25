@@ -1,0 +1,75 @@
+body {
+    font-family: Arial;
+    background: #eef2f5;
+    margin: 0;
+}
+
+.header {
+    background: #c62828;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* FORMULARIO */
+.form {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.form input, .form select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+button {
+    background: #c62828;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* TABLA */
+table {
+    width: 100%;
+    background: white;
+    border-radius: 10px;
+    border-collapse: collapse;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: #c62828;
+    color: white;
+}
+
+.activo {
+    color: green;
+    font-weight: bold;
+}
+
+.inactivo {
+    color: red;
+    font-weight: bold;
+}
+
+img {
+    width: 50px;
+    border-radius: 50%;
+}
