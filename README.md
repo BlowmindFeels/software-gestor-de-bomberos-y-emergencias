@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de una plataforma web para la gestión d
 Está diseñado para mejorar la eficiencia en la atención de emergencias, optimizando la asignación de recursos y facilitando la toma de decisiones.
 
 ## tecnologias usadas
-- Backend
+* Backend
 Node.js
 Express.js
 
